@@ -1,4 +1,4 @@
-# oit-neovim
+# docker-build-neovim
 
 ## build
 ```bash
